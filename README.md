@@ -49,7 +49,7 @@ Chung, J., Gulcehre, C., Cho, K., & Bengio, Y. (2014). [*Empirical evaluation of
 }
 ```
 
-### Empirical Evaluation of Gated Recurrent Neural Networks on Sequence Modeling
+### Long short-term memory
 
 Hochreiter, S., & Schmidhuber, J. (1997). Long short-term memory. Neural computation, 9(8), 1735-1780.
 
