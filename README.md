@@ -30,7 +30,7 @@ In this experiment, I implement GRU recurrent net from scratch as well a minimal
 
 Inspired by [recent success of evolutionary strategies in reinforcement learning](https://blog.openai.com/evolution-strategies/), the model is trained to forecast monthly sales of ... with no backprop involved.  And it works.  :)
 
-The model successfully model learns seasonal patterns, unfortunately only for a bunch of future years, then it fades into meaningless oscillation.
+The model successfully learns seasonal patterns, unfortunately only for a bunch of future years, then it fades into a meaningless oscillation.
 
 The code is rather short and there is a large room for improvements and further experimentation.  Using LSTM instead of GRU, adding more layers, ... it is all trivial.
 
